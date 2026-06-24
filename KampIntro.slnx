@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ClassIntro/ClassIntro.csproj" />
+  <Project Path="DegerVeReferansTipler/DegerVeReferansTipler.csproj" />
+  <Project Path="Donguler/Donguler.csproj" />
+  <Project Path="KampIntro/KampIntro.csproj" />
+  <Project Path="Matematik/Matematik.csproj" />
+  <Project Path="Metotlar/Metotlar.csproj" />
+</Solution>
