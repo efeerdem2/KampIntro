@@ -20,4 +20,6 @@ foreach (string kurs in kurslar)
     Console.WriteLine();
 }
 
+
+
 Console.WriteLine("sayfa sonu - footer");

@@ -2,7 +2,10 @@
   <Project Path="ClassIntro/ClassIntro.csproj" />
   <Project Path="DegerVeReferansTipler/DegerVeReferansTipler.csproj" />
   <Project Path="Donguler/Donguler.csproj" />
+  <Project Path="GenericsIntro/GenericsIntro.csproj" Id="5d445b2e-7ae9-4d68-9467-5b4a56edc121" />
   <Project Path="KampIntro/KampIntro.csproj" />
+  <Project Path="Koleksiyonlar/Koleksiyonlar.csproj" Id="4d6e4b04-ea76-4ce1-bd9a-bb1164e700da" />
   <Project Path="Matematik/Matematik.csproj" />
   <Project Path="Metotlar/Metotlar.csproj" />
+  <Project Path="OOP1/OOP1.csproj" Id="6560e478-7a3e-4ad2-baa4-9630c582bb85" />
 </Solution>
