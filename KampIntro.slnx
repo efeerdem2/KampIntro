@@ -8,4 +8,6 @@
   <Project Path="Matematik/Matematik.csproj" />
   <Project Path="Metotlar/Metotlar.csproj" />
   <Project Path="OOP1/OOP1.csproj" Id="6560e478-7a3e-4ad2-baa4-9630c582bb85" />
+  <Project Path="OOP2/OOP2.csproj" Id="30c7332c-b612-4efd-8b61-ce51b8e19ea5" />
+  <Project Path="OOP3/OOP3.csproj" Id="6db8126f-0363-48e7-ae2f-fcccea0337ed" />
 </Solution>
